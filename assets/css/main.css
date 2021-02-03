@@ -1,0 +1,39 @@
+section {
+  padding: 10% 0px;
+  text-align: center;
+}
+section i {
+  font-size: 64px;
+}
+section i:nth-child(1) {
+  color: #1da1f2;
+}
+section i:nth-child(2) {
+  color: #3b5998;
+}
+section i:nth-child(3) {
+  color: #1ab7ea;
+}
+section i:nth-child(4) {
+  color: #fffc00;
+}
+section i:nth-child(5) {
+  color: #fd5c63;
+}
+section i:nth-child(6) {
+  color: #ff9900;
+}
+section i:nth-child(7) {
+  color: #a4c639;
+}
+section i:nth-child(8) {
+  color: #dd4814;
+}
+section i:nth-child(9) {
+  color: #333;
+}
+section i:nth-child(10) {
+  color: #f7df1e;
+}
+
+/*# sourceMappingURL=main.css.map */
